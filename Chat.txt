@@ -1,0 +1,4 @@
+හරි. දැන් මේමයි හරිද මගෙ mp3 එක කලින් api එකෙන් වැඩ කරනව හරිද ඒක වෙනස් කරන්න ඕනෙ නෑ
+
+https://supunmd.vercel.app/api/download/ytmp4/dl?url=https://youtu.be/gvunApwKIiY?si=chZvUhH78wR28uKx&quality=720p&apikey=supunmd-y0tueruk97vnuxcuawbh
+මේ තියෙන්නෙ මගෙ mp4 api එක මේකට අනුව මට mp4 code එක ද්න්න

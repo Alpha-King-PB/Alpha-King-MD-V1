@@ -1,0 +1,20 @@
+{
+  "name": "my-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "A powerful WhatsApp bot using Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.12",
+    "@whiskeysockets/baileys": "latest",
+    "axios": "^1.15.0",
+    "dotenv": "^17.4.2",
+    "pino": "latest",
+    "wa-sticker-formatter": "^4.4.4",
+    "yt-search": "^2.13.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
