@@ -1,4 +1,5 @@
-හරි. දැන් මේමයි හරිද මගෙ mp3 එක කලින් api එකෙන් වැඩ කරනව හරිද ඒක වෙනස් කරන්න ඕනෙ නෑ
+hmm දැන් අපි ආයෙත් අපේ කමාන්ඩ් පැත්තට යං
 
-https://supunmd.vercel.app/api/download/ytmp4/dl?url=https://youtu.be/gvunApwKIiY?si=chZvUhH78wR28uKx&quality=720p&apikey=supunmd-y0tueruk97vnuxcuawbh
-මේ තියෙන්නෙ මගෙ mp4 api එක මේකට අනුව මට mp4 code එක ද්න්න
+මංමගෙ තිබ්බ ytdlmp3 ytdlmp4 කියන කමන්ඩ් දෙකම ඩිලීට් කරා. දැන් මංකියන විදියට ඒ දෙක මුලෛදන් හදමු. මංමගෙ .env එකට YTDLMP3_KEY1 සහ YTDLMP3_KEY2 කියල API දෙකක් දානව ඔයා ඒ දෙකම යූස් වෙන විදියට කෝඩ් එක හදන්න. ඒ කියන්නෙ එකක් වැඩ නැත්තන් අනිත් එක යූස් වෙන විදියට
+
+අපිytdlmp4 එක පස්සෙ හදමු

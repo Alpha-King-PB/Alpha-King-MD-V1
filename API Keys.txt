@@ -1,0 +1,19 @@
+
+FB Diwnload API
+https://api.siputzx.my.id/api/d/facebook?url=
+
+TikTok Download API
+https://tikwm.com/api/?url=
+
+Instagram Download API
+https://instagram.f-a-k.workers.dev/?url=
+
+YT MP3 Download API
+https://www.movanest.xyz/v2/ytmp3?url=
+https://api.fastdevelopers.in/ytmp3?url=https://youtu.be/l-JY3lGg_Ik
+
+YT MP4 Download API
+https://www.movanest.xyz/v2/ytmp4?url=
+
+
+

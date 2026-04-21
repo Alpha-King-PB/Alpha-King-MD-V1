@@ -4,7 +4,7 @@ const axios = require("axios");
 module.exports = {
     name: "song",
     description: "Search songs from YouTube",
-    category: "download",
+    category: "Search",
     async execute(conn, m) {
         try {
             const text =
