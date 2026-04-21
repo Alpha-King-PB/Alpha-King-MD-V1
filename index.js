@@ -32,7 +32,7 @@ async function startBot() {
         printQRInTerminal: false,
         logger: pino({ level: "fatal" }),
         // Now using the name from your database for the browser info
-        browser: Browsers.ubuntu(botName),
+        browser: ["Ubuntu", "Chrome", "20.0.04"],
         syncFullHistory: false,
     });
 
