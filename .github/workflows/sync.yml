@@ -12,4 +12,4 @@ jobs:
       - name: Push to HF
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://Alpha2011AI:$HF_TOKEN@huggingface.co/spaces/Alpha2011AI/Alpha-King-MD-V1 main
+        run: git push --force https://huggingface.co/spaces/AlphaCrew/Alpha-King-MD-V1 main
