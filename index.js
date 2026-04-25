@@ -12,6 +12,7 @@ const {
 const pino = require("pino");
 const fs = require("fs");
 const { jidDecode } = require("@whiskeysockets/baileys");
+//const antiDelete = require("./events/antidelete");
 
 // ==========================================
 // 2. Load Database Settings
@@ -263,6 +264,10 @@ async function startBot() {
             console.log("Error in messages.upsert:", err);
         }
     });
+
+    //===========================
+    //End
+    //===========================
 
     conn.ev.on("creds.update", saveCreds);
 }

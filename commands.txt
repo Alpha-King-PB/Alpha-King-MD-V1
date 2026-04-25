@@ -1,0 +1,20 @@
+=====================================================
+Old Bot Commands
+=====================================================
+mainmenu
+convmenu
+toolmenu
+hackmenu
+downloadermenu
+botmenu
+fullmenu
+
+
+info
+
+
+start
+stop
+
+boom
+boom2
