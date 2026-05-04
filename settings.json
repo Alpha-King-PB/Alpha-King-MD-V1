@@ -1,4 +1,4 @@
-{
+q{
   "botName": "Alpha King",
   "ownerNumber": "94766357263",
   "adminNumbers": ["94777892536"],
@@ -7,7 +7,7 @@
   "prefix": ".",
   "pairNumber": "94755158283",
   "status": "online",
-  "botStatus": false,
+  "botStatus": true,
   "logoUrl": "https://i.ibb.co/NgVLdJCZ/logo.png",
   "developerName": "Anuwa Dev"
 }
