@@ -5,8 +5,9 @@
   "ownerId": ["22330189328469", "22330189328469@lid"],
   "adminIds": ["67672159084565", "67672159084565@lid"],
   "prefix": ".",
-  "pairNumber": "94766357263",
+  "pairNumber": "94755158283",
   "status": "online",
+  "botStatus": false,
   "logoUrl": "https://i.ibb.co/NgVLdJCZ/logo.png",
   "developerName": "Anuwa Dev"
 }
